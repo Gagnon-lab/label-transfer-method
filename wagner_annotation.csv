@@ -1,0 +1,73 @@
+cell_type,marker_genes,,,,,,,,,,,,,,,,,,,
+differentiating neurons - hmx,sox1a,hmx3a,hmx3,sox1b,LOC103911504,mllt11,LOC100536821,celf3a,mpped2,scg2b,stmn1b,dpysl3,atp1a3a,rtn1a,celf4,myt1a,tmsb,sox5,elavl3,six6b
+differentiating neurons - dlx,dlx1a,dlx5a,dlx2a,celf3a,sp9,LOC100536821,elavl3,rtn1a,dlx2b,dpysl3,stmn1b,myt1a,mllt11,vamp2,celf4,LOC100537384,sox4a,atp1a3a,zfhx4,pbx3b
+epidermal - prr15la,pvalb8,cldnh,prr15la,LOC100006250,grp,tmem45b,zgc:92380,cldnb,icn2,spint2,anxa5b,epcam,icn,s100u,foxa1,cldn7b,zgc:101744,prox1a,sox4b,tfap2c
+pancreas primordium,rltgr,nucb2b,LOC565781,isl1,scg3,sst2,ins,gcgb,neurod1,slc43a2a,gcga,si:dkey-153k10.9,tspan7b,ndufa4l2a,slc1a4,scgn,sik1,pax6b,anxa4,si:ch211-235e18.3
+ionocyte - ca2,foxi3a,ca15a,ceacam1,LOC569335,zgc:158222,cldnh,nqo1,ca2,atp6v0a1a,icn,atp6v1aa,rnaseka,atp6v1e1b,zgc:198419,atp6v1h,atp6ap1b,atp6v1f,atp6v1ba,atp6v1g1,atp6v0ca
+leukocyte,ch25hl2,ncf1,si:ch1073-429i10.1,lyz,coro1a,lcp1,srgn,LOC100537803,npsn,mpx,mmp13a,arpc1b,gsto2,papss2b,sult2st1,sms,lta4h,cotl1,pfn1,cd63
+neural - ventral hindbrain,sp8b,sox3,lrrn1,si:ch73-21g5.7,plp1a,pax6a,LOC100334443,gfap,sox19a,her8a,robo4,cyp26b1,metrn,angptl4,irx3a,egfl6,sox21a,dbx1b,dbx1a,prdm12b
+erythroid,si:ch211-5k11.12,hbae3,hbbe1.1,hbbe3,MGC173646,LOC100334599,si:ch211-5k11.2,hbae1,slc4a1a,LOC100537766,cahz,hbbe2,alas2,tspo,si:dkey-25o16.2,blvrb,cpox,nt5c2l1,urod,hmbsa
+differentiating neurons - phox2a,phox2a,phox2bb,insm1a,nkx6.1,vim,onecut1,isl1,nhlh2,dlb,cxcr4b,elavl3,slit3,neurod4,onecutl,ebf2,epb41a,gng2,tubb5,plxna4,tmsb
+mesoderm - emp2,vwde,col5a2a,thbs4b,emp2,angptl7,col1a1b,col1a2,col5a1,tgfbi,col1a1a,postnb,aldh1a2,col11a1b,efemp2b,vcanb,LOC103909969,rdh10a,meox1,apoc1l,rbp5
+differentiating neurons,elavl3,onecut1,tubb5,LOC100536821,myt1a,ebf2,dlb,rtn1a,nhlh2,tmsb,mllt11,stxbp1a,scrt2,gap43,elavl4,snap25a,cplx2l,LOC797032,gadd45gb.1,otpa
+muscle - myl1,pvalb2,ns:zf-e68,tnni2b.1,ckmb,tnni2a.4,ckma,mylpfa,tnnt3a,myl1,tpma,aldoab,mylpfb,tnnc2,acta1b,mylz3,actc1b,tnnt3b,pvalb1,hm:zewp0073,actc1a
+neural - midbrain,eng2b,otx2,sox19a,wu:fb25b09,otx1a,LOC103911157,otx1b,efna2a,sox3,metrn,pou3f3b,eng2a,pou3f3a,id1,her2,dbx1a,,,,
+neural - dorsal spinal cord,slc1a3a,si:ch211-251b21.1,mdka,prss35,mdkb,hoxc3a,gfap,hoxb9a,hoxa4a,junbb,zic2b,wnt11r,gsx1,atp1a1b,fosab,vim,angptl4,lipg,hoxb8a,tes
+neural - diencephalon ,id3,nkx2.4a,prdx1,nkx2.4b,shha,fezf2,rx3,nkx2.1,sox1b,lhx5,sfrp5,her15.1,olig2,LOC100534909,id1,LOC100001360,six3a,her2,dbx1b,dbx1a
+neural crest,sox10,slc2a15b,cax1,slc45a2,LOC103911087,pah,akr1b1,gch2,tspan36,slc2a11b,wu:fc46h12,crestin,pcbd1,si:ch211-102c2.5,LOC100003669,ctsba,gpd1b,atp6v1g1,gmps,impdh1b
+optic cup,rx1,six3b,cad,ncl,nap1l1,pcna,tktb,fabp7a,hspe1,npm1a,ahcy,fbl,ppa1b,myca,pax6b,c1qbp,dkc1,ascl1a,hspd1,LOC795545
+periderm,si:ch211-157c3.4,anxa1c,zgc:110283,zgc:193505,krt17,agr1,zgc:109868,LOC100537515,si:ch211-195b11.3,wu:fb18f06,icn2,lye,krt5,cldne,cst14b.1,cyt1l,cyt1,icn,krt4,zgc:113413
+tailbud - spinal cord,mdka,hoxb9a,slc1a3a,ldlrad2,gfap,hoxc3a,LOC100334443,pkd1b,vim,hapln1a,LOC100001360,her12,LOC103910062,hoxa4a,pax6b,zgc:162939,fosab,junbb,si:ch211-251b21.1,apoc1l
+pectoral fin bud,pcolcea,hand2,cfd,pitx1,si:dkey-261h17.1,ftr82,tmem88b,col5a1,col7a1l,pmp22a,entpd1,LOC101886266,zgc:172136,col5a2a,col6a3,si:ch211-201m7.3,twist1a,fn1b,slit3,rdh10a
+macrophage,ctssb.1,lcp1,coro1a,mfap4,LOC100537803,havcr1,lgals2a,ctssb.2,arpc1b,zgc:173915,LOC797571,cebpb,f13a1b,arhgdig,tspan36,cotl1,LOC103909263,pfn1,ctsba,cd63
+epidermal - grhl3,wu:fb12c09,si:dkey-87o1.2,ponzr5,cldne,icn2,si:ch211-195b11.3,spint2,cldnb,s100u,zgc:109868,icn,cd9b,anxa1c,wu:fb18f06,epcam,hsd17b12a,tnks1bp1,tuba8l2,capns1a,krt18
+epidermal - olfactory placode,cldnh,epcam,f11r.1,pvalb8,cldnb,cldn7b,capsla,insm1b,dlx3b,insm1a,ebf3,pvalb5,anxa5b,tspan2a,bcl11ba,gng13b,zgc:173594,neurod1,s100z,txn
+neural - dorsal hindbrain,mdkb,casz1,zic1,olig3,zic2b,epha2a,zic2a,fzd10,cdon,msxb,cdh6,lrrn1,neo1,irx1b,neo1a,id2a,her12,id1,LOC798927,egr2b
+otic placode,stm,si:dkey-222f2.1,sox10,cldna,oc90,si:ch211-152c2.3,si:ch211-80h18.1,efhd1,LOC101886004,otop1,cldnb,six1b,epcam,f11r.1,agr2,col2a1a,cldnj,eya1,sparc,ptbp1b
+endoderm,cldnc,foxa1,foxa3,aqp12,epcam,cdh1,cd9b,serpinf2b,oc90,rbp5,paics,si:ch211-201m7.3,LOC100003669,LOC565781,aldob,bhmt,pparg,apoa1b,apoa2,relt
+myotome,hsp90aa1.1,klhl41b,myog,tnni2b.1,myl1,pabpc4,rbfox1l,tmem38a,ckmb,hspb1,actc1b,aldoab,desma,tpma,tnnc2,actc1a,hm:zewp0073,acta1b,acta1a,ttnb
+pharyngeal pouch,pax1b,epcam,si:dkey-261h17.1,prdm1a,krt18,egfl6,nanos1,cd9b,alcama,cldn7b,etv4,tbx1,krt8,foxa2,cxcl12b,cfl1l,hoxb1b,nkx2.3,si:ch211-67e16.11,cxcl12a
+epidermal - anterior,cfl1l,epcam,cldn1,col1a2,cldni,postnb,padi2,krt8,col1a1b,pfn1,si:dkey-152p16.6,col1a1a,krt18,cxcl12b,ptgs2a,si:ch211-201m7.3,wu:fb77a09,s100a10b,pitx2,cyp26a1
+tailbud - PSM,LOC100537277,apoc1l,her1,ntd5,apoeb,hoxc13b,fn1b,her7,c1qtnf5,cxcl12b,msgn1,tuba8l2,efemp2b,palld,wu:fb77a09,meox1,crabp2b,fn1a,col1a1a,and1
+pharyngeal arch - tbx1,tbx1,si:dkey-261h17.1,LOC101886266,hey1,aplnrb,six1b,fam212ab,LOC100003704,sema4c,emp2,eya1,nrp2a,cyp26c1,pdgfab,sfrp2,nrp2b,her6,igfbp5b,cxcl12a,npm1a
+endothelial,clec14a,yrk,fli1a,tmem88a,si:ch211-156j16.1,etv2,kdrl,krt18,egfl7,si:dkey-261h17.1,stab2,sox7,cldn5b,krt8,dab2,aplnrb,mrc1a,vsg1,sox18,aqp1a.1
+hatching gland,MGC174152,wu:fb37b09,ctslb,LOC100536033,ctsl1b,wu:fb36g12,MGC174155,si:dkey-248g15.3,si:dkey-26g8.4,MGC174857,zgc:174153,he1b,zgc:174855,si:dkey-269i1.3,si:dkey-239j18.3,wu:fa26c03,he1a,krt97,icn2,cd63
+differentiating neurons - eomesa,tbr1b,eomesa,celf3a,stmn1b,rtn1a,elavl3,islr2,bcl11ba,sox4a,r3hdm1,myt1a,celf2,ckbb,camk2d2,elavl4,foxg1a,cbfa2t3,celf5a,neurod6b,pbx3b
+pharyngeal arch - cd248b,pmp22a,cd248b,col1a1a,tgfbi,col1a2,reck,tpm4a,fibina,cthrc1a,col11a1b,col2a1b,col5a1,foxc1a,cdh11,fmoda,colec12,si:dkey-261h17.1,matn4,col9a2,col2a1a
+lens,crybb1,vcana,tgfb3,pitx3,hmx4,lim2.1,cryba1l1,cryba4,fabp11a,si:ch211-152c2.3,aldocb,rbm24a,cryba2a,cryba1b,crygn2,bcl2l13,crybb1l1,crybb1l2,cryba2b,sh3tc1
+neural - floorplate,slit1b,loxl5b,clu,col9a3,npr3,spon1b,shha,ntn1b,oc90,vasna,sulf1,col9a2,slit2,col2a1a,ctgfa,slit3,col11a1a,hapln1a,emp2,sparc
+endothelial - posterior,dab2,mrc1a,stab2,clec14a,flt4,mcamb,si:ch211-156j16.1,etv2,sox18,gpr182,rab11bb,vsg1,glula,f13a1b,tagln2,snx5,lamp2,lgmn,postnb,ctsla
+neural - floorplate posterior,LOC103910062,foxj1a,sulf1,nkx2.2b,vim,nkx2.9,ntn1b,col11a1a,plekhn1,slc1a3a,col14a1a,sulf2b,ldlrad2,col4a5,col12a1a,oc90,fabp7a,fn1a,LOC100004582,igf2b
+differentiating neurons - sst1.1,im:7138475,myo3b,scg3,gad1b,tal2,nppc,sst1.1,slc32a1,rhpn2,gata3,sox1b,atp1a3b,ldlrad2,gpm6ab,nkx6.1,si:ch1073-70f20.1,urp1,zgc:175128,cpe,gad2
+epidermal - atp1a1a.2,LOC569335,cldnh,atp1a1a.2,dmrt2a,si:dkey-193p11.2,atp1b1b,ndrg1a,cldne,LOC793940,kcnj1a.5,krt97,kcnj1a.3,icn2,spint2,cldnb,icn,LOC100334363,ndrg3a,epcam,krt18
+neural - hindbrain roofplate,rspo3,igfbp7,cdh6,sost,bmp5,cdon,fabp7b,zgc:114181,zic2a,wls,lmx1ba,slit3,mdka,mdkb,neo1,atp1b3a,col12a1a,cyp26c1,wnt11r,hhip
+differentiating neurons - rohon beard,neurod1,zgc:158291,six1b,cdh6,tuba8l3,pcbp4,ebf3,onecutl,onecut1,insm1b,tnw,si:ch73-199e17.1,tlx2,kctd12.2,dlb,eya4,eya2,vim,elavl3,alcama
+retina pigmented epithelium,pmela,dct,LOC103911087,pmelb,tyrp1a,fabp11a,slc45a2,cx43,tyrp1b,col9a1b,tspan36,bhlhe40,trpm1b,rbm47,stra6,gstp1,pcbd1,ctsba,pah,ppcdc
+neural - telencephalon,lrig1,LOC100538174,foxg1a,mdkb,sox5,fezf2,cyp26c1,sox1b,LOC100536415,fezf1,six3a,rgmd,cxcl12a,si:ch73-21g5.7,zic2a,her2,LOC100534909,her15.1,cyp26b1,fabp7a
+neural - midbrain ventral nkx6.2,ntn1a,nkx6.2,lrrn1,foxa1,wu:fb25b09,ntn1b,otx1a,sulf2b,foxa,foxa2,shha,metrn,nkx2.9,otx1b,nkx2.2b,spon1b,helt,eng2b,pcdh19,phox2a
+neural - hindbrain gsx1,lbx1b,mdka,gsx1,mdkb,LOC100150849,irx3a,si:ch211-137a8.4,plp1a,fabp7a,sox19a,zbtb16a,lrig1,cyp26b1,sox3,pou3f3b,emid1,angptl4,phox2bb,prss35,her9
+neural - posterior ventral nkx6.2,ntn1a,sulf2b,nkx6.2,nkx2.2b,phox2bb,nkx6.1,ntn1b,nkx2.2a,nkx2.9,lrrn1,plekhn1,foxa,sall1a,metrn,spon1b,mpz,metrnl,cyp26c1,cyp26b1,prtga
+germline,nanos3,dnd1,tdrd7a,ddx4,ca15b,fbxo18,hspb1,cxcr4b,lnpep,gkap1,erlin2,txlna,LOC100330598,sypl2a,zgc:56699,med6,pfkfb4b,psap,psen1,map1lc3b
+notocord,emilin3a,si:dkey-12l12.1,loxl5b,ta,LOC100333762,LOC100149028,ntd5,fxyd1,cmn,pmp22b,fn1a,plod1a,serpinh1b,calua,aplp2,col11a1a,fstl1a,col2a1a,fstl1b,col2a1b
+heart,si:dkey-261h17.1,pcolcea,tmem88b,krt18,ftr82,LOC100331639,fn1a,si:dkey-207j16.2,krt8,flna,tpm4a,rbpms2b,krt94,LOC563082,myl9b,hand2,podxl,colec10,sfrp5,fabp11a
+heart - mature,myl7,cmlc1,vmhc,tnni1b,tnnt2a,rbfox1l,acta1b,vmhcl,zgc:86709,rbpms2b,slc8a1a,tnnc1a,ttna,actc1a,hm:zewp0073,fhl2a,nppa,tpm4a,atp2a2a,hapln1a
+muscle - myl10,smyhc1,myl13,myl10,zgc:86709,tnnc1b,acta1a,aldoab,tnni2b.1,tnni1c,tnnt1,tnnc2,desma,ckma,ckmb,actc1b,hm:zewp0073,actc1a,tpm2,pvalb4,tpm3
+neural - diencephalon posterior,shha,pitx3,foxa1,foxa2,barhl1a,ntn1b,lmx1ba,pitx2,fgfr3,ldlrad2,foxa,fgfr4,ntn1a,pcdh10b,vasna,spon1b,metrn,dbx1a,robo4,cxcl12b
+pharyngeal arch - ndnf,pitx3,si:dkey-261h17.1,foxc1a,eya2,foxc1b,ndnf,pmp22a,tmem88b,prrx1a,nrp2a,nrp2b,fgfr4,fibina,shisa3,met,pitx2,si:ch211-201m7.3,flrt3,ppap2a,akap12b
+heart - hoxd9a,si:dkey-261h17.1,prrx1a,aldh1a2,prdm1a,pmp22a,reck,prdm16,hoxd9a,twist3,tmem88b,hoxd10a,fn1a,npm1a,hoxa1a,her6,tmem88a,bmp4,meis3,rdh10a,pdgfab
+epidermal - muc5ac,foxa3,si:ch211-163l21.8,si:dkey-87o1.2,krt97,muc5ac,cldnh,nansb,icn2,si:dkey-65b12.6,zgc:100864,zgc:92380,s100u,s100v1,cldnb,icn,spint2,wu:fb18f06,agr2,epcam,fxyd1
+pharyngeal arch - lbx1a,thbs4b,vwde,lbx1a,six1b,eya1,postnb,met,sept9a,col5a2a,rbp5,igfbp5b,hhip,col5a1,prdm16,krt18,eya2,meis2b,npm1a,phlda2,crabp1b
+neural crest - xanthophore,slc22a7a,tmem130,slc2a15b,wu:fc46h12,gch2,akr1b1,cax1,bscl2l,pah,si:dkey-251i10.2,slc2a11b,rbp4l,g6pc3,gpd1b,tspan36,LOC100536795,impdh1b,prdx1,gmps,paics
+neural crest - melanoblast,tyrp1b,dct,slc45a2,tyrp1a,LOC103911087,pah,pmela,gch2,akr1b1,mitfa,zgc:91968,si:dkey-226k3.4,tspan36,si:ch211-102c2.5,pcbd1,slc37a2,crestin,gstp1,atp6v1g1,atp6v0ca
+neural crest - iridoblast,apoda.1,defbl1,si:dkey-197i20.6,si:ch211-243a20.3,pnp4a,gpr143,ltk,sox10,alx4a,LOC103910711,si:ch211-256m1.8,zgc:110591,si:dkey-226k3.4,zgc:77517,crestin,pgm2,impdh1b,gmps,tspan36,paics
+neural crest - grem2,pmp22a,twist1a,ednrab,grem2b,grem2,si:dkey-261h17.1,her6,dlx2a,snai1a,npm1a,hey1,fli1a,foxc1b,ncl,barx1,pcbd1,dlx5a,vasna,dlx3b,hand2
+neural crest - mcamb,ednrab,sox10,foxd3,erbb3b,LOC103910711,crestin,mcamb,tfap2a,fxyd1,pmp22a,reck,tuba8l3,slc1a3a,fabp3,nr2f5,cdh6,qkia,LOC103908616,LOC100003669,zeb2a
+pronephric duct,aqp8b,LOC101883320,acy3.2,pdzk1,si:dkeyp-27c8.2,slc26a1,slc4a4a,ahcyl1,ndrg1a,ca2,rbm47,zgc:136493,atp1a1a.4,mfsd4b,sepp1a,si:dkey-194e6.1,LOC103911480,slc4a2a,atp1b1a,aldob
+proctodeum,mal,cldnc,elf3,cldnh,LOC794522,LOC100003669,fxyd2,rbm47,spint2,sb:cb252,slc12a3,cldnb,cldne,ndrg1a,ndrg3a,atp1a1a.4,atp1a1a.3,atp1b1a,stc1l,icn
+epidermal - s100a11,s100a11,trpv6,ponzr5,LOC569335,LOC793940,wu:fj16a03,pvalb8,cldnh,zgc:198419,atp1b1b,si:ch211-195b11.3,mafbb,wu:fb18f06,spint2,mafba,epcam,ndrg3a,krt18,LOC103909263,atp1a1a.1
+lateral line - krt15,krt15,hmx3,hmx3a,si:dkey-222f2.1,cldnb,eya1,gsnb,epcam,tmprss5,si:ch211-152c2.3,plcd1b,tfap2a,spint2,cldn7b,zgc:77517,f11r.1,sdprb,igfbp5b,igsf9,hey1
+epidermal - and1,cldni,krt97,vcana,cldn1,krt96,apoeb,cfl1l,s100a10b,myh9a,egfl6,and1,col1a1a,col14a1a,and2,apoc1l,krt4,pfn1,krt8,si:dkey-248g15.3,fn1b
+epidermal - acbd7,pvalb8,cldne,cldnh,si:ch211-195b11.3,elf3,lye,icn2,oclna,fxyd1,LOC100334363,cldnb,zgc:77517,spint2,gsnb,f11r.1,epcam,icn,acbd7,lgals3l,llgl2
+epidermal - rbp4,cldni,LOC100334363,s100a10b,rbp4,si:dkey-152p16.6,cfl1l,anxa1a,col1a1b,cyt1l,cyt1,col1a2,ptgdsb,postnb,apoeb,cotl1,krt4,pfn1,krt8,fn1b,zgc:113413
+epidermal - col7a1l,cldni,si:dkey-152p16.6,cfl1l,cyt1l,cyt1,cldn1,s100a10b,LOC100334363,myh9a,krt4,pfn1,apoeb,col1a1b,col1a2,postnb,col11a1a,tmsb4x,col4a5,fn1b,zgc:113413
+epidermal - kera,kera,LOC100334363,cldni,krt97,tnw,s100a10b,cxcl14,col1a1b,cfl1l,si:dkey-152p16.6,cyt1l,cyt1,col1a1a,col11a1a,col1a2,ptgdsb,postnb,krt91,krt4,pfn1
